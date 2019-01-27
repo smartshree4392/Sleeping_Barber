@@ -1,0 +1,11 @@
+1] Download the Sleeping_Barber.cpp file from this repository.
+
+2] Compile the file using the below command to generate a binary.
+   g++ -o Sleeping_Barber Sleeping_Barber.cpp
+
+3] Execute the code using the following command and arguments.
+  ./Sleeping_Barber 10        //10 being the size of customer waiting room.
+  
+4] In case the above command gives compilation error, please copy paste the source code in https://www.onlinegdb.com/online_c++_compiler
+   online compiler and hit Run to compile and execute.
+   Also enter the command line arguments in the input section.
